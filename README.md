@@ -9,7 +9,6 @@
 
 ### Connect with me:
 [![Website](https://img.shields.io/website?label=resume.abhishekjnvk.in&style=for-the-badge&url=https://resume.abhishekjnvk.in/)](https://resume.abhishekjnvk.in/)
-
 [<img alt="Abhishek | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img alt="Abhishek | Gmail" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](<mailto:abhishekjnvk@gmail.com>)
 
@@ -39,8 +38,8 @@
 
 
 ## Statics
-<img alt="Abhishek's GitHub Stats" height=160em align="left" src="https://github-readme-stats.vercel.app/api/?username=abhishekjnvk&show_icons=true&theme=radical&hide_border=false&count_private=false" />
-<img alt="Abhishek's GitHub Stats" height=160em align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjnvk&show_icons=true&layout=compact&theme=radical&hide=html,css&custom_title=Most used languages" />
+<img alt="Abhishek's GitHub Stats" height=150em align="left" src="https://github-readme-stats.vercel.app/api/?username=abhishekjnvk&show_icons=true&theme=radical&hide_border=false&count_private=false" />
+<img alt="Abhishek's GitHub Stats" height=150em align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjnvk&show_icons=true&layout=compact&theme=radical&hide=html,css&custom_title=Most used languages" />
 
 
 [website]: https://resume.abhishekjnvk.in
